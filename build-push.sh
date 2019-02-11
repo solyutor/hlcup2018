@@ -1,0 +1,1 @@
+docker build -t jshlcup18 . && docker tag jshlcup18 stor.highloadcup.ru/accounts/kind_chameleon && docker push stor.highloadcup.ru/accounts/kind_chameleon
